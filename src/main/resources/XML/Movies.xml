@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies
+xmlns="https://www.realdolmen.com/examen"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.realdolmen.com/examen Movies.xsd">
+    <movie>
+        <id>1</id>
+        <title>The sixth sence</title>
+        <genre>Thriller</genre>
+    </movie>
+    <movie>
+        <id>2</id>
+        <title>The seventh senSe</title>
+        <genre>Thrillerer</genre>
+    </movie>
+    <movie>
+        <id>69</id>
+        <title>The steventh sense</title>
+        <genre>The Thrillererest</genre>
+    </movie>
+</movies>
